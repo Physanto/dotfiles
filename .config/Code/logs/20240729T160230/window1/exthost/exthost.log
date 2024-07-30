@@ -1,0 +1,16 @@
+2024-07-29 16:02:32.254 [info] Extension host with pid 289255 started
+2024-07-29 16:02:32.254 [info] Skipping acquiring lock for /home/initmanfig/.config/Code/User/workspaceStorage/3783eb11738c088473672e702d600a93.
+2024-07-29 16:02:32.469 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-29 16:02:32.570 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-29 16:02:32.605 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-29 16:02:32.680 [info] Eager extensions activated
+2024-07-29 16:02:32.729 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-29 16:02:32.732 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-29 16:02:32.743 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-07-29 16:02:32.752 [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-07-29 16:02:32.786 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2024-07-29 16:02:32.792 [info] ExtensionService#_doActivateExtension simonhe.vscode-emoji, startup: false, activationEvent: 'onStartupFinished'
+2024-07-29 16:02:42.399 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+2024-07-29 16:02:45.196 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-29 16:46:51.961 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-29 16:46:51.975 [info] Extension host with pid 289255 exiting with code 0

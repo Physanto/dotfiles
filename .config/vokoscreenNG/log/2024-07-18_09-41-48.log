@@ -1,0 +1,99 @@
+09:41:48 [vokoscreenNG] Version: 4.1.0
+09:41:48 [vokoscreenNG] Locale: en_US
+09:41:48 [vokoscreenNG] Log from: 2024-07-18 09:41:48
+09:41:48 [vokoscreenNG] Country: United States
+09:41:48 [vokoscreenNG] Qt: 6.7.1
+09:41:48 [vokoscreenNG] GStreamer 1.24.3
+09:41:48 [vokoscreenNG] PulseAudio library version: 17.0.0
+09:41:48 [vokoscreenNG] Virtual Maschine: none
+09:41:48 [vokoscreenNG] Operating system: Manjaro Linux
+09:41:48 [vokoscreenNG] KernelVersion: 6.9.5-1-MANJARO
+09:41:48 [vokoscreenNG] CPU Architecture: x86_64
+09:41:48 [vokoscreenNG] Count CPU: 8
+09:41:48 [vokoscreenNG] vokoscreenNG running as: xcb client
+09:41:48 [vokoscreenNG] vokoscreenNG running on: x11
+09:41:48 [vokoscreenNG] Desktop: i3
+09:41:48 [vokoscreenNG] Icon-Theme: hicolor
+09:41:48 [vokoscreenNG] Styles: QStyleSheetStyle
+09:41:48 [vokoscreenNG] ExecutablePath:      /usr/bin
+09:41:48 [vokoscreenNG] Qt-PluginsPath:      /usr/lib/qt6/plugins
+09:41:48 [vokoscreenNG] Qt-TranslationsPath: /usr/share/qt6/translations
+09:41:48 [vokoscreenNG] Qt-LibraryPath:      /usr/lib
+09:41:48 [vokoscreenNG] Settings: /home/initmanfig/.config/vokoscreenNG/vokoscreenNG.ini
+09:41:48 [vokoscreenNG] Log: /home/initmanfig/.config/vokoscreenNG/log/2024-07-18_09-41-48.log
+09:41:48 [vokoscreenNG] Default Videopath: /home/initmanfig/Videos
+09:41:48 [vokoscreenNG] User Videopath: /home/initmanfig/Videos
+
+09:41:48 [vokoscreenNG] [Audio] Found: Monitor of Built-in Audio Analog Stereo Device: alsa_output.pci-0000_00_1f.3.analog-stereo.monitor
+09:41:48 [vokoscreenNG] [Audio] Found: Built-in Audio Analog Stereo Device: alsa_input.pci-0000_00_1f.3.analog-stereo
+
+09:41:48 [vokoscreenNG] Pictures permission: Can write in /home/initmanfig/Pictures
+
+09:41:48 [vokoscreenNG] Symbols: + available, - not available
+09:41:48 [vokoscreenNG] + ximagesrc
+09:41:48 [vokoscreenNG] + pulsesrc
+09:41:48 [vokoscreenNG] + queue
+09:41:48 [vokoscreenNG] + appsrc
+09:41:48 [vokoscreenNG] + capsfilter
+09:41:48 [vokoscreenNG] + videoconvert
+09:41:48 [vokoscreenNG] + videorate
+09:41:48 [vokoscreenNG] + videoscale
+09:41:48 [vokoscreenNG] + h264parse
+09:41:48 [vokoscreenNG] + audioconvert
+09:41:48 [vokoscreenNG] + audiorate
+09:41:48 [vokoscreenNG] + audiomixer
+09:41:48 [vokoscreenNG] + audioresample
+09:41:48 [vokoscreenNG] + filesink
+
+09:41:48 [vokoscreenNG] Formats, video- and audio codec are only for record, not for the player
+09:41:48 [vokoscreenNG] Video formats:
+09:41:48 [vokoscreenNG] + matroskamux (mkv)
+09:41:48 [vokoscreenNG] - gifenc (gif)
+09:41:48 [vokoscreenNG] + mp4mux (mp4)
+09:41:48 [vokoscreenNG] + webmmux (webm)
+09:41:48 [vokoscreenNG] + avimux (avi)
+09:41:48 [vokoscreenNG] + qtmux (mov)
+
+09:41:48 [vokoscreenNG] Format was changed, codecs are inserted:
+09:41:48 [vokoscreenNG] + vp8enc
+09:41:48 [vokoscreenNG] + x264enc
+
+09:41:48 [vokoscreenNG] Video encoder:
+09:41:48 [vokoscreenNG] - openh264enc
+09:41:48 [vokoscreenNG] + vp8enc
+09:41:48 [vokoscreenNG] + x264enc
+09:41:48 [vokoscreenNG] - gifenc
+
+09:41:48 [vokoscreenNG] Audio encoder:
+09:41:48 [vokoscreenNG] + vorbisenc
+09:41:48 [vokoscreenNG] + flacenc
+09:41:48 [vokoscreenNG] + opusenc
+09:41:48 [vokoscreenNG] + lamemp3enc
+
+09:41:48 [vokoscreenNG] This screen is the primary screen:  eDP-1
+09:41:48 [vokoscreenNG] Name from screen:  eDP-1
+09:41:48 [vokoscreenNG] Screen available desktop width : 1920
+09:41:48 [vokoscreenNG] Screen available desktop height: 1080
+09:41:48 [vokoscreenNG] DevicePixelRatio: 1  (Normal displays is 1, Retina display is 2)
+09:41:48 [vokoscreenNG] Vertical refresh rate of the screen in Hz: 60.0524
+09:41:48 [vokoscreenNG] Screen orientation Qt::LandscapeOrientation
+09:41:48 [vokoscreenNG] Color depth of the screen:  24
+09:41:48 [vokoscreenNG] Model from screen:  
+09:41:48 [vokoscreenNG] Manufactur from screen:  
+09:41:48 [vokoscreenNG] SerialNumber from screen:  
+09:41:48 [vokoscreenNG] ItemText in Combobox: eDP-1 :  1920 x 1080
+09:41:48 [vokoscreenNG] ItemData in Combobox: x=0 y=0 with=1920 height=1080
+
+09:41:49 [vokoscreenNG] [Camera] Added: HD WebCam: HD WebCam Device: /dev/video0
+09:41:49 [vokoscreenNG] Language changed to: English  ( United States )  ( en_US ) :/language/en_US.qm
+09:41:49 [vokoscreenNG] Set global shortcut for Start: CTRL+SHIFT+F10
+09:41:49 [vokoscreenNG] Set global shortcut for Pause: CTRL+SHIFT+F12
+09:41:49 [vokoscreenNG] Set global shortcut for Magnification: CTRL+SHIFT+Z
+09:41:49 [vokoscreenNG] Set global shortcut for Camera: CTRL+SHIFT+F8
+09:41:49 [vokoscreenNG] Set global shortcut for Showclick: CTRL+SHIFT+F7
+09:41:49 [vokoscreenNG] Set global shortcut for Halo: CTRL+SHIFT+F6
+09:41:49 [vokoscreenNG] Set global shortcut for Snapshot: CTRL+SHIFT+F5
+
+09:41:49 [vokoscreenNG] Video permission: Can write in /home/initmanfig/Videos
+
+09:41:49 [vokoscreenNG] [Composite] true

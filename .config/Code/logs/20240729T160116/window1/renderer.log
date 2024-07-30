@@ -1,0 +1,4 @@
+2024-07-29 16:01:17.682 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/initmanfig/.bashrc","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-07-29 16:01:18.229 [info] Started local extension host with pid 287685.
+2024-07-29 16:01:19.601 [error] [devzstudio.emoji-snippets]: Unknown language in `contributes.emoji-snippets.language`. Provided value: vue
+2024-07-29 16:01:21.172 [info] [perf] Render performance baseline is 52ms

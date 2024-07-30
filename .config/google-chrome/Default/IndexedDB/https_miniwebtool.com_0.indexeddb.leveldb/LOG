@@ -1,0 +1,15 @@
+2024/07/15-10:46:51.993 599 Reusing MANIFEST /home/initmanfig/.config/google-chrome/Default/IndexedDB/https_miniwebtool.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/15-10:46:51.994 599 Recovering log #4
+2024/07/15-10:46:51.994 599 Reusing old log /home/initmanfig/.config/google-chrome/Default/IndexedDB/https_miniwebtool.com_0.indexeddb.leveldb/000004.log 
+2024/07/15-10:47:06.438 58d Level-0 table #8: started
+2024/07/15-10:47:06.460 58d Level-0 table #8: 190 bytes OK
+2024/07/15-10:47:06.494 58d Delete type=0 #4
+2024/07/15-10:47:06.495 58d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/15-10:47:06.495 58d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 11 : 1
+2024/07/15-10:47:06.495 58d Compacting 1@1 + 1@2 files
+2024/07/15-10:47:06.517 58d Generated table #9@1: 9 keys, 369 bytes
+2024/07/15-10:47:06.517 58d Compacted 1@1 + 1@2 files => 369 bytes
+2024/07/15-10:47:06.550 58d compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/15-10:47:06.551 58d Delete type=2 #8
+2024/07/15-10:47:06.551 58d Delete type=2 #5
+2024/07/15-10:47:06.551 58d Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 11 : 1 .. (end); will stop at (end)

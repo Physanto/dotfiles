@@ -1,0 +1,3 @@
+2024-07-29 19:10:04.622 [info] Started local extension host with pid 2410.
+2024-07-29 19:10:06.585 [error] [devzstudio.emoji-snippets]: Unknown language in `contributes.emoji-snippets.language`. Provided value: vue
+2024-07-29 19:10:09.010 [info] [perf] Render performance baseline is 60ms

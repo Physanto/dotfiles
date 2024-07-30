@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "hexeditor.columnWidth": 16,
+    "hexeditor.showDecodedText": true,
+    "hexeditor.defaultEndianness": "little",
+    "hexeditor.inspectorType": "aside"
+}
