@@ -1,4 +1,0 @@
-2024-07-29 19:28:27.893 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/initmanfig/.config/nvim/init.vim","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-07-29 19:28:28.454 [info] Started local extension host with pid 11720.
-2024-07-29 19:28:29.427 [error] [devzstudio.emoji-snippets]: Unknown language in `contributes.emoji-snippets.language`. Provided value: vue
-2024-07-29 19:28:31.366 [info] [perf] Render performance baseline is 63ms

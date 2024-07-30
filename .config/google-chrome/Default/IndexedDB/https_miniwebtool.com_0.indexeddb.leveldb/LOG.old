@@ -1,6 +1,0 @@
-2024/07/13-17:29:22.152 79a Creating DB /home/initmanfig/.config/google-chrome/Default/IndexedDB/https_miniwebtool.com_0.indexeddb.leveldb since it was missing.
-2024/07/13-17:29:22.316 79a Reusing MANIFEST /home/initmanfig/.config/google-chrome/Default/IndexedDB/https_miniwebtool.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/13-17:29:46.718 79b Level-0 table #5: started
-2024/07/13-17:29:46.740 79b Level-0 table #5: 381 bytes OK
-2024/07/13-17:29:46.774 79b Delete type=0 #3
-2024/07/13-17:29:46.775 79b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

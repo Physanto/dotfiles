@@ -1,4 +1,0 @@
-2024-07-29 15:21:12.933 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/initmanfig/.config/picom/picom.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-07-29 15:21:13.493 [info] Started local extension host with pid 263193.
-2024-07-29 15:21:14.757 [error] [devzstudio.emoji-snippets]: Unknown language in `contributes.emoji-snippets.language`. Provided value: vue
-2024-07-29 15:21:16.493 [info] [perf] Render performance baseline is 74ms

@@ -1,6 +1,0 @@
-2024/07/22-09:58:38.736 70b Reusing MANIFEST /home/initmanfig/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/22-09:58:38.737 70b Recovering log #4
-2024/07/22-09:58:39.775 70b Reusing old log /home/initmanfig/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
-2024/07/22-09:58:57.817 6fd Level-0 table #8: started
-2024/07/22-09:58:57.893 6fd Level-0 table #8: 2946726 bytes OK
-2024/07/22-09:58:57.976 6fd Delete type=0 #4
